@@ -24,4 +24,7 @@ Two ways:
 
 #### Opacity
 
-There is a placeholder opacity style on the `<img>` tag, via the rule on line 50 in `styles.css`. It is defaulted to 1 (100%), which effectively disables the effect. To edit the opacity percentage of the dust image, simply change this value to the desired opacity level (on a scale from 0 to 1), e.g. `0.5` (50%), `0.25` (25%), etc. To remove the effect, set this value back to `1`.
+- There is a placeholder opacity style on the `<img>` tag, via the rule on line 50 in `styles.css`. It is defaulted to 1 (100%), which effectively disables the effect. 
+- To edit the opacity percentage of the dust image, simply change this value to the desired opacity level (on a scale from 0 to 1), e.g. `0.5` (50%), `0.25` (25%), etc. 
+- To remove the effect, set this value back to `1`.
+- To see just the stars with no dust overlay, set this value to `0`
