@@ -17,7 +17,7 @@
 
 Two ways:
 
-- Place new image in the project's `img` folder and change line 13 of `index.html` to the correct file name
+- Place new image in the project's `img` folder and use a text editor (TextEdit, Sublime Text, etc.) to change line 13 of `index.html` to the correct file name.
 - Change the url in line 13 of `index.html` to the proper location of the img file you are working on. This way, you won't have to copy the updated file every time you make any changes.
 
 **After any updates (code or new/edit image), refresh the browser to see your changes take effect.**
